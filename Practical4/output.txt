@@ -1,0 +1,8 @@
+123 is odd, cube of 123 is 1860867.
+34.568 is a float number rounded to three decimal places.
+23.450 is a float number rounded to three decimal places.
+23 is odd, cube of 23 is 12167.
+89 is odd, cube of 89 is 704969.
+10 is even, square of 10 is 100.
+34444.211 is a float number rounded to three decimal places.
+56 is even, square of 56 is 3136.
